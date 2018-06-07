@@ -1,0 +1,10 @@
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\bin\Debug\EljonBati.exe.config
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\bin\Debug\EljonBati.exe
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\bin\Debug\EljonBati.pdb
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\obj\Debug\EljonBati.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\obj\Debug\EljonBati.Form1.resources
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\obj\Debug\EljonBati.Properties.Resources.resources
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\obj\Debug\EljonBati.csproj.GenerateResource.Cache
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\obj\Debug\EljonBati.exe
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\obj\Debug\EljonBati.pdb
+C:\xampp\htdocs\firstWEBMVCVS13\EljonBati\EljonBati\obj\Debug\EljonBati.loadingscrn.resources
